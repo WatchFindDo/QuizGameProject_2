@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Question>
+      <Info>Moon radius is .. ?</Info>
+      <Answers>
+        <Answer>
+          <Info>2,212.2 KM</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,737.1 KM</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4,128.2 KM</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,652.4 KM</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>25</Timer>
+      <Type>Single</Type>
+      <AddScore>100</AddScore>
+    </Question>
+    <Question>
+      <Info>Sun Temerature is .. ?</Info>
+      <Answers>
+        <Answer>
+          <Info>1,522 K</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10,127 K</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5,778 K</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4,852 K</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>25</Timer>
+      <Type>Single</Type>
+      <AddScore>100</AddScore>
+    </Question>
+  </Questions>
+</Data>
